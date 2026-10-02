@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://minetechdemo-nnpkgzjfxcjxkx4wuruxqj.streamlit.app/$1"
+    }
+  ]
+}
